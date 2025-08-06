@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-
-- 💻 Passionate software developer with a love for clean code and innovative solutions
-- 🌱 Always learning and exploring new technologies
-- 🎯 Focused on building impactful projects and contributing to open source
-- 📫 Let's connect and build something amazing together!
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -47,13 +40,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-
-
-## ⏰ WakaTime Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## 🌐 Connect with Me
 
